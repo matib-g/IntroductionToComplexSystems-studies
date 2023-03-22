@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>4568CBBC-B784-43A6-A0FA-C4CDAEF9B55C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4568CBBC-B784-43A6-A0FA-C4CDAEF9B55C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PercolationK project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PercolationK</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build PercolationK</string>
+			<key>timeStartedRecording</key>
+			<real>639939396.87826204</real>
+			<key>timeStoppedRecording</key>
+			<real>639939401.31298196</real>
+			<key>title</key>
+			<string>Build PercolationK</string>
+			<key>uniqueIdentifier</key>
+			<string>4568CBBC-B784-43A6-A0FA-C4CDAEF9B55C</string>
+		</dict>
+		<key>7BDCC73E-A7ED-4168-9AC0-F06C237CB2D3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7BDCC73E-A7ED-4168-9AC0-F06C237CB2D3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PercolationK project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PercolationK</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build PercolationK</string>
+			<key>timeStartedRecording</key>
+			<real>639925066.83640897</real>
+			<key>timeStoppedRecording</key>
+			<real>639925069.11994898</real>
+			<key>title</key>
+			<string>Build PercolationK</string>
+			<key>uniqueIdentifier</key>
+			<string>7BDCC73E-A7ED-4168-9AC0-F06C237CB2D3</string>
+		</dict>
+		<key>8FF5A31B-5AC3-42DF-A91D-8D527DB17555</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8FF5A31B-5AC3-42DF-A91D-8D527DB17555.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PercolationK project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PercolationK</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build PercolationK</string>
+			<key>timeStartedRecording</key>
+			<real>639923114.58331394</real>
+			<key>timeStoppedRecording</key>
+			<real>639923118.29100096</real>
+			<key>title</key>
+			<string>Build PercolationK</string>
+			<key>uniqueIdentifier</key>
+			<string>8FF5A31B-5AC3-42DF-A91D-8D527DB17555</string>
+		</dict>
+		<key>ABC0BB20-D587-4A3D-B289-22639C83DD44</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>ABC0BB20-D587-4A3D-B289-22639C83DD44.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PercolationK project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PercolationK</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build PercolationK</string>
+			<key>timeStartedRecording</key>
+			<real>639698563.12387502</real>
+			<key>timeStoppedRecording</key>
+			<real>639698565.05002904</real>
+			<key>title</key>
+			<string>Build PercolationK</string>
+			<key>uniqueIdentifier</key>
+			<string>ABC0BB20-D587-4A3D-B289-22639C83DD44</string>
+		</dict>
+		<key>B686F0F0-B6D4-4073-AED5-76E92F045C66</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B686F0F0-B6D4-4073-AED5-76E92F045C66.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PercolationK project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PercolationK</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build PercolationK</string>
+			<key>timeStartedRecording</key>
+			<real>639922789.32033002</real>
+			<key>timeStoppedRecording</key>
+			<real>639922792.32324195</real>
+			<key>title</key>
+			<string>Build PercolationK</string>
+			<key>uniqueIdentifier</key>
+			<string>B686F0F0-B6D4-4073-AED5-76E92F045C66</string>
+		</dict>
+		<key>BC87EC56-B7AB-4EF8-993E-C8A0AC5305A2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BC87EC56-B7AB-4EF8-993E-C8A0AC5305A2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PercolationK project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PercolationK</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build PercolationK</string>
+			<key>timeStartedRecording</key>
+			<real>639940945.21089602</real>
+			<key>timeStoppedRecording</key>
+			<real>639940947.73899996</real>
+			<key>title</key>
+			<string>Build PercolationK</string>
+			<key>uniqueIdentifier</key>
+			<string>BC87EC56-B7AB-4EF8-993E-C8A0AC5305A2</string>
+		</dict>
+		<key>EF73B987-DAB4-4D76-AE97-212AC6A2567D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EF73B987-DAB4-4D76-AE97-212AC6A2567D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PercolationK project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PercolationK</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build PercolationK</string>
+			<key>timeStartedRecording</key>
+			<real>639940707.67953897</real>
+			<key>timeStoppedRecording</key>
+			<real>639940711.40242898</real>
+			<key>title</key>
+			<string>Build PercolationK</string>
+			<key>uniqueIdentifier</key>
+			<string>EF73B987-DAB4-4D76-AE97-212AC6A2567D</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

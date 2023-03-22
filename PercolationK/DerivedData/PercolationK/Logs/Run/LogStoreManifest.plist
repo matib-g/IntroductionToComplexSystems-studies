@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0169A7E1-6235-45F8-906F-97C1F69AE58D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0169A7E1-6235-45F8-906F-97C1F69AE58D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PercolationK project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PercolationK</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run PercolationK</string>
+			<key>timeStartedRecording</key>
+			<real>639940947.74356306</real>
+			<key>timeStoppedRecording</key>
+			<real>639940957.03929496</real>
+			<key>title</key>
+			<string>Run PercolationK</string>
+			<key>uniqueIdentifier</key>
+			<string>0169A7E1-6235-45F8-906F-97C1F69AE58D</string>
+		</dict>
+		<key>54760018-AF39-4422-BA06-76EB63E011E4</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>54760018-AF39-4422-BA06-76EB63E011E4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PercolationK project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PercolationK</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run PercolationK</string>
+			<key>timeStartedRecording</key>
+			<real>639922792.331653</real>
+			<key>timeStoppedRecording</key>
+			<real>639922835.97566295</real>
+			<key>title</key>
+			<string>Run PercolationK</string>
+			<key>uniqueIdentifier</key>
+			<string>54760018-AF39-4422-BA06-76EB63E011E4</string>
+		</dict>
+		<key>5FCBE6BE-9EC1-4CDB-B107-6D95905F656F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5FCBE6BE-9EC1-4CDB-B107-6D95905F656F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PercolationK project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PercolationK</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run PercolationK</string>
+			<key>timeStartedRecording</key>
+			<real>639698565.05535305</real>
+			<key>timeStoppedRecording</key>
+			<real>639698601.01568401</real>
+			<key>title</key>
+			<string>Run PercolationK</string>
+			<key>uniqueIdentifier</key>
+			<string>5FCBE6BE-9EC1-4CDB-B107-6D95905F656F</string>
+		</dict>
+		<key>7D240A64-158D-47A5-AF74-940A89E6CC76</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7D240A64-158D-47A5-AF74-940A89E6CC76.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PercolationK project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PercolationK</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run PercolationK</string>
+			<key>timeStartedRecording</key>
+			<real>639925069.12769198</real>
+			<key>timeStoppedRecording</key>
+			<real>639939047.30048597</real>
+			<key>title</key>
+			<string>Run PercolationK</string>
+			<key>uniqueIdentifier</key>
+			<string>7D240A64-158D-47A5-AF74-940A89E6CC76</string>
+		</dict>
+		<key>87ED9249-5E55-4C23-9D0A-2290B9417627</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>87ED9249-5E55-4C23-9D0A-2290B9417627.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PercolationK project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PercolationK</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run PercolationK</string>
+			<key>timeStartedRecording</key>
+			<real>639940711.41233897</real>
+			<key>timeStoppedRecording</key>
+			<real>639940845.50900602</real>
+			<key>title</key>
+			<string>Run PercolationK</string>
+			<key>uniqueIdentifier</key>
+			<string>87ED9249-5E55-4C23-9D0A-2290B9417627</string>
+		</dict>
+		<key>C938CFC7-2972-408F-93ED-20EE663EF194</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C938CFC7-2972-408F-93ED-20EE663EF194.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PercolationK project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PercolationK</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run PercolationK</string>
+			<key>timeStartedRecording</key>
+			<real>639939401.32086802</real>
+			<key>timeStoppedRecording</key>
+			<real>639940598.23727</real>
+			<key>title</key>
+			<string>Run PercolationK</string>
+			<key>uniqueIdentifier</key>
+			<string>C938CFC7-2972-408F-93ED-20EE663EF194</string>
+		</dict>
+		<key>E0961C1C-F6E0-4BC0-9C32-323E8E96EC1D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E0961C1C-F6E0-4BC0-9C32-323E8E96EC1D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PercolationK project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PercolationK</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run PercolationK</string>
+			<key>timeStartedRecording</key>
+			<real>639923118.29816306</real>
+			<key>timeStoppedRecording</key>
+			<real>639924747.61098194</real>
+			<key>title</key>
+			<string>Run PercolationK</string>
+			<key>uniqueIdentifier</key>
+			<string>E0961C1C-F6E0-4BC0-9C32-323E8E96EC1D</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

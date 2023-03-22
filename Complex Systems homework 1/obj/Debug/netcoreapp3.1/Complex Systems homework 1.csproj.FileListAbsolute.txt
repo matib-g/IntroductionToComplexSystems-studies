@@ -1,0 +1,13 @@
+C:\Users\Rudy\source\repos\Complex Systems homework 1\bin\Debug\netcoreapp3.1\Complex Systems homework 1.exe
+C:\Users\Rudy\source\repos\Complex Systems homework 1\bin\Debug\netcoreapp3.1\Complex Systems homework 1.deps.json
+C:\Users\Rudy\source\repos\Complex Systems homework 1\bin\Debug\netcoreapp3.1\Complex Systems homework 1.runtimeconfig.json
+C:\Users\Rudy\source\repos\Complex Systems homework 1\bin\Debug\netcoreapp3.1\Complex Systems homework 1.runtimeconfig.dev.json
+C:\Users\Rudy\source\repos\Complex Systems homework 1\bin\Debug\netcoreapp3.1\Complex Systems homework 1.dll
+C:\Users\Rudy\source\repos\Complex Systems homework 1\bin\Debug\netcoreapp3.1\Complex Systems homework 1.pdb
+C:\Users\Rudy\source\repos\Complex Systems homework 1\obj\Debug\netcoreapp3.1\Complex Systems homework 1.csprojAssemblyReference.cache
+C:\Users\Rudy\source\repos\Complex Systems homework 1\obj\Debug\netcoreapp3.1\Complex Systems homework 1.AssemblyInfoInputs.cache
+C:\Users\Rudy\source\repos\Complex Systems homework 1\obj\Debug\netcoreapp3.1\Complex Systems homework 1.AssemblyInfo.cs
+C:\Users\Rudy\source\repos\Complex Systems homework 1\obj\Debug\netcoreapp3.1\Complex Systems homework 1.csproj.CoreCompileInputs.cache
+C:\Users\Rudy\source\repos\Complex Systems homework 1\obj\Debug\netcoreapp3.1\Complex Systems homework 1.dll
+C:\Users\Rudy\source\repos\Complex Systems homework 1\obj\Debug\netcoreapp3.1\Complex Systems homework 1.pdb
+C:\Users\Rudy\source\repos\Complex Systems homework 1\obj\Debug\netcoreapp3.1\Complex Systems homework 1.genruntimeconfig.cache
